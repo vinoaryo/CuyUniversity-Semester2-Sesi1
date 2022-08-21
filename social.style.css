@@ -1,0 +1,14 @@
+.title {
+  font-size: 2em;
+}
+
+.icons {
+  font-size: 24px;
+  color: var(--icons-bg-primary);
+  margin-top: 8px;
+}
+
+.description {
+  margin-top: 8px;
+  font-size: 0.8em;
+}
